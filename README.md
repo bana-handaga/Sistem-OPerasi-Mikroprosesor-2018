@@ -10,6 +10,7 @@ Pemrograman I/O Raspbery Pi (Rpi)  sederhana
 
 Koneksi Rpi dan Arduino
 
+![rpi](https://raw.githubusercontent.com/bana-handaga/Sistem-OPerasi-Mikroprosesor-2018/master/rpi.png)
 
-
+![rpi-pinout](https://raw.githubusercontent.com/bana-handaga/Sistem-OPerasi-Mikroprosesor-2018/master/rpi-pinout.png)
 
